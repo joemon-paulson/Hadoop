@@ -27,16 +27,6 @@ cp file1 file2 	-	Copy the contents of file1 to file2
 cp -r dir1 dir2 -	Copy dir1 to dir2;create dir2 if not present
 mv file1 file2	-	Rename or move file1 to file2,if file2 is an existing directory
 -------------------------
-ssh username@hostname -p port_number
-ssh username@ip_address -p port_number
-overthewire.org :-> bandit challenge
-challenge	   goal
---------	   ------
-bandit0 	ssh connection
-bandit1		reading files using cat
-bandit2		reading "-" named file using ./-
-bandit3 ,bandit4 , bandit5 your challenge . just make a try, use man 
-command if you face  any issues
 
 
 ------------------------
